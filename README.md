@@ -22,7 +22,7 @@ dsh plugin --profile <profile> add github:everywan/dsh-quick-jump
 钉版本就把 ref 加上：
 
 ```
-dsh plugin --profile <profile> add github:everywan/dsh-quick-jump#v0.1.0
+dsh plugin --profile <profile> add github:everywan/dsh-quick-jump#v1.0.1
 ```
 
 本机改代码时用 link 安装，改动不用重新发布：
