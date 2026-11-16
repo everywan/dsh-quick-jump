@@ -4,6 +4,19 @@
   "private": true,
   "type": "module",
   "description": "Number-key jumps to sidebar panels, pinned sessions and sessions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/everywan/dsh-quick-jump.git"
+  },
+  "homepage": "https://github.com/everywan/dsh-quick-jump#readme",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "deepseek-desktop",
+    "shortcuts",
+    "sessions",
+    "快捷键"
+  ],
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",

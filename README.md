@@ -13,13 +13,25 @@
 
 ## 安装
 
-插件目录加入 profile 后自动出现：
+从 GitHub 装进 profile（`<profile>` 换成你的 profile 名，桌面版通常是 `desktop`）：
 
 ```
-dsh plugin --profile <profile> add /Users/wzs/code/everywan/dsh-quick-jump
+dsh plugin --profile <profile> add github:everywan/dsh-quick-jump
 ```
 
-或在插件管理页用「添加插件」选择本地目录，然后重启 DSH。
+钉版本就把 ref 加上：
+
+```
+dsh plugin --profile <profile> add github:everywan/dsh-quick-jump#v0.1.0
+```
+
+本机改代码时用 link 安装，改动不用重新发布：
+
+```
+dsh plugin --profile <profile> add link:/path/to/dsh-quick-jump
+```
+
+装完重启 DSH。也可以在插件管理页用「添加插件」填入同样的地址。
 
 ## 已知限制
 
