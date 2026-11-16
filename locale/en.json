@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Number-key jumps",
+    "description": "Bind 1-9 to the Nth sidebar panel, pinned session or session, and switch with one key. Two orderings: sessions first, or panels first."
+  }
+}

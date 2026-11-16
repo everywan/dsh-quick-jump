@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Number keys">
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#1F6FEB" opacity="0.12"/>
+  <rect x="10" y="14" width="12" height="11" rx="3.5" fill="#1F6FEB"/>
+  <rect x="26" y="14" width="12" height="11" rx="3.5" fill="#1F6FEB" opacity="0.55"/>
+  <rect x="42" y="14" width="12" height="11" rx="3.5" fill="#1F6FEB" opacity="0.3"/>
+  <rect x="10" y="29" width="12" height="11" rx="3.5" fill="#1F6FEB" opacity="0.55"/>
+  <rect x="26" y="29" width="12" height="11" rx="3.5" fill="#1F6FEB" opacity="0.3"/>
+  <rect x="42" y="29" width="12" height="11" rx="3.5" fill="#1F6FEB" opacity="0.2"/>
+  <rect x="10" y="44" width="28" height="7" rx="3.5" fill="#1F6FEB" opacity="0.2"/>
+</svg>
